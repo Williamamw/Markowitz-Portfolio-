@@ -39,9 +39,5 @@ Originally developed as a university group project analyzing the **Bulgarian Sto
 * **SciPy:** Optimization algorithms (SLSQP) to solve for portfolio weights.
 * **Matplotlib / Seaborn:** Visualization of the Efficient Frontier.
 
-## 🚀 How to Run
-Clone the repository:
-   ```bash
-   git clone https://github.com/Williamamw/Markowitz-Portfolio-Optimization.git
 ```
 Authors: Ming Wei ANG & Léa Montestier
