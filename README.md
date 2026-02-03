@@ -43,5 +43,5 @@ Originally developed as a university group project analyzing the **Bulgarian Sto
 Clone the repository:
    ```bash
    git clone https://github.com/Williamamw/Markowitz-Portfolio-Optimization.git
-
+```
 Authors: Ming Wei ANG & Léa Montestier
