@@ -39,5 +39,5 @@ Originally developed as a university group project analyzing the **Bulgarian Sto
 * **SciPy:** Optimization algorithms (SLSQP) to solve for portfolio weights.
 * **Matplotlib / Seaborn:** Visualization of the Efficient Frontier.
 
-```
+
 Authors: Ming Wei ANG & Léa Montestier
